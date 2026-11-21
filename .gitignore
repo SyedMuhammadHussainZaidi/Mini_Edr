@@ -1,0 +1,7 @@
+Demo_Protected_Folder/
+MiniEdr_Vault/
+engine.log
+mini_edr.db
+/mini_edr.db-shm
+/mini_edr.db-wal
+/__pycache__/
